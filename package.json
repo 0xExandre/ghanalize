@@ -1,0 +1,24 @@
+{
+  "name": "ghanalizer",
+  "version": "1.0.0",
+  "description": "Github Profile Analizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "First Comment"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahCoban28/Ghanalizer.git"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "analizer"
+  ],
+  "author": "Abdullah2861",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahCoban28/Ghanalizer/issues"
+  },
+  "homepage": "https://github.com/AbdullahCoban28/Ghanalizer#readme"
+}
