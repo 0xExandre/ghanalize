@@ -1,17 +1,19 @@
-GitHub Profile Analyzer
+GitHub Profile Analyze
 This project provides a tool for analyzing GitHub profiles. The tool accesses a user's GitHub profile, gathers various statistics, and displays them. For example, statistics such as the number of followers, following count, popular languages, and number of repositories can be obtained.
 Installation
 Node.js is required for using the project. You can install the dependencies by running:
 
 ```console
  npm install
+ npm install axios
+
 ```
 
 # Usage
 
 To analyze a GitHub profile, you can run the following command:
 ```console
-node analyze.js <username>
+node index.js <username>
 ```
 Replace <username> with the GitHub username you want to analyze.
 

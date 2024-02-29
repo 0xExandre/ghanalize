@@ -7,9 +7,12 @@ async function analyzeGitHubProfile(username) {
     
     // Kullanıcı verilerini analiz etmek için gerekli işlemler yapılabilir
     
-    console.log(userData);
+    console.log(userData); // Kullanıcı verilerini konsola yazdır
+
+    return userData; // Kullanıcı verilerini döndür
   } catch (error) {
     console.error('GitHub profili alınamadı:', error.message);
+    throw error; // Hata durumunda hatayı yeniden fırlat
   }
 }
 

@@ -1,14 +1,14 @@
 {
-  "name": "ghanalizer",
+  "name": "ghanalize",
   "version": "1.0.0",
-  "description": "Github Profile Analizer",
+  "description": "Github Profile Analize",
   "main": "index.js",
   "scripts": {
     "test": "First Comment"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdullahCoban28/Ghanalizer.git"
+    "url": "git+https://github.com/AbdullahCoban28/Ghanalize.git"
   },
   "keywords": [
     "github",
@@ -18,7 +18,10 @@
   "author": "Abdullah2861",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbdullahCoban28/Ghanalizer/issues"
+    "url": "https://github.com/AbdullahCoban28/Ghanalize/issues"
   },
-  "homepage": "https://github.com/AbdullahCoban28/Ghanalizer#readme"
+  "homepage": "https://github.com/AbdullahCoban28/Ghanalize#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
 }
