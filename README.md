@@ -1,5 +1,14 @@
 GitHub Profile Analyze
 This project provides a tool for analyzing GitHub profiles. The tool accesses a user's GitHub profile, gathers various statistics, and displays them. For example, statistics such as the number of followers, following count, popular languages, and number of repositories can be obtained.
+
+
+Github Url : https://github.com/AbdullahCoban28/ghanalize
+
+
+Npm Url : https://www.npmjs.com/package/ghanalize
+
+
+
 Installation
 Node.js is required for using the project. You can install the dependencies by running:
 
